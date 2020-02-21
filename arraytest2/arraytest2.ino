@@ -5,7 +5,7 @@ float sumOfArray;
 float mean;
 float h_mean;
 int ainput=A0;
-
+//xlinx
 void setup() {
  pinMode(ainput, INPUT_PULLUP); //輸入腳
  Serial.begin(9600); //連接serial port
